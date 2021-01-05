@@ -10,7 +10,7 @@
         "--socket=fallback-x11",
         "--socket=wayland",
         "--talk-name=org.freedesktop.FileManager1",
-        "--filesystem=xdg-download/VideoDownloader:create"
+        "--filesystem=xdg-download/VideoDownloader"
     ],
     "cleanup" : [
         "/include",
